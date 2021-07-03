@@ -1,6 +1,7 @@
 .sss{
-  color: blue;
+  color: white;
 }
 .sss{
   background-color: hotpink;
+  border: 10px dotted darkred;
 }
